@@ -31,3 +31,7 @@ predictions = naive_bayes.predict(testing_data)
                    
 # Computing the accuracy, precision, recall and F1 scores 
 # of your model using your test data 'y_test' and the 'predictions' variable
+print('Accuracy score: ', accuracy_score(y_test, predictions))
+print('Precision score: ', precision_score(y_test, predictions))
+print('Recall score: ', recall_score(y_test, predictions))
+print('F1 score: ', f1_score(y_test, predictions))                  

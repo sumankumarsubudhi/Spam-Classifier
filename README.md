@@ -7,3 +7,5 @@ Being able to identify spam messages is a binary classification problem as messa
 **Here's a preview of the data:**
 
 <img width="1148" alt="dqnb" src="https://user-images.githubusercontent.com/20025875/61074798-2bb54500-a436-11e9-8083-16ad4fd07606.png">
+
+**Score's on evaluating the model**

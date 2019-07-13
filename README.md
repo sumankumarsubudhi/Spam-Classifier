@@ -17,5 +17,11 @@ Also, this is a supervised learning problem, as we will be feeding a labelled da
 * Recall score:  0.9405405405405406
 * F1 score:  0.9560439560439562
 
+### Score's on evaluating the model on "spam classifier 2.ipynb"
 
+**Bagging Scores**
 
+* Accuracy score for bagging : 0.9755922469490309
+* Precision score bagging : 0.9171270718232044
+* Recall score bagging : 0.8972972972972973
+* F1 score bagging : 0.907103825136612

@@ -32,3 +32,10 @@ Also, this is a supervised learning problem, as we will be feeding a labelled da
 * Precision score random forest : 1.0
 * Recall score random forest : 0.8594594594594595
 * F1 score random forest : 0.9244186046511628
+ 
+**AdaBoost scores**
+
+* Accuracy score for adaboost : 0.9770279971284996
+* Precision score adaboost : 0.9693251533742331
+* Recall score adaboost : 0.8540540540540541
+* F1 score adaboost : 0.9080459770114943

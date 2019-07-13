@@ -12,30 +12,32 @@ Also, this is a supervised learning problem, as we will be feeding a labelled da
 
 ### Score's on evaluating the model on "spam classifier.ipynb"
 
-* Accuracy score:  0.9885139985642498
-* Precision score:  0.9720670391061452
-* Recall score:  0.9405405405405406
-* F1 score:  0.9560439560439562
+**Naive Bayes Claasifier Scores**
+
+* Accuracy score:  0.989
+* Precision score:  0.972
+* Recall score:  0.941
+* F1 score:  0.956
 
 ### Score's on evaluating the model on "spam classifier 2.ipynb"
 
 **Bagging Scores**
 
-* Accuracy score for bagging : 0.9755922469490309
-* Precision score bagging : 0.9171270718232044
-* Recall score bagging : 0.8972972972972973
-* F1 score bagging : 0.907103825136612
+* Accuracy score for bagging : 0.976
+* Precision score bagging : 0.917
+* Recall score bagging : 0.897
+* F1 score bagging : 0.907
 
 **Random Forest scores**
 
-* Accuracy score for random forest : 0.9813352476669059
-* Precision score random forest : 1.0
-* Recall score random forest : 0.8594594594594595
-* F1 score random forest : 0.9244186046511628
+* Accuracy score for random forest : 0.981
+* Precision score random forest : 1.000
+* Recall score random forest : 0.859
+* F1 score random forest : 0.924
  
 **AdaBoost scores**
 
-* Accuracy score for adaboost : 0.9770279971284996
-* Precision score adaboost : 0.9693251533742331
-* Recall score adaboost : 0.8540540540540541
-* F1 score adaboost : 0.9080459770114943
+* Accuracy score for adaboost : 0.977
+* Precision score adaboost : 0.969
+* Recall score adaboost : 0.854
+* F1 score adaboost : 0.908

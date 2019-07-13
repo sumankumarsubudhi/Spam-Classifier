@@ -25,3 +25,10 @@ Also, this is a supervised learning problem, as we will be feeding a labelled da
 * Precision score bagging : 0.9171270718232044
 * Recall score bagging : 0.8972972972972973
 * F1 score bagging : 0.907103825136612
+
+**Random Forest scores**
+
+* Accuracy score for random forest : 0.9813352476669059
+* Precision score random forest : 1.0
+* Recall score random forest : 0.8594594594594595
+* F1 score random forest : 0.9244186046511628
